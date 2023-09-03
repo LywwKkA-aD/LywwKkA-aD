@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matvej Verbickij</h1>
 <h3 align="center">A passionate fullstack developer from Czechia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lywwkka-ad&label=Profile%20views&color=0e75b6&style=flat" alt="lywwkka-ad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lywwkka-ad" alt="lywwkka-ad" /></a> </p>
+
 - 🔭 I’m currently working on **E-commerce Web App**
 
 - 🌱 I’m currently learning **React Js, FireBase, etc. ...**
@@ -18,4 +22,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bristle398"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bristle398" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lywwkka-ad&show_icons=true&locale=en" alt="lywwkka-ad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lywwkka-ad&" alt="lywwkka-ad" /></p>
 
