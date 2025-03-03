@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matthew</h1>
+<h1 align="center">Hi 👋, I'm LywwKkA-aD</h1>
 <h3 align="center">IT Wizard</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lywwkka-ad&label=Profile%20views&color=0e75b6&style=flat" alt="lywwkka-ad" /> </p>
 
 - 🔭 I’m currently working on [Automated Grid Trading Strategy](https://trading.infralab.cloud/)
 
