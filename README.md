@@ -7,16 +7,6 @@
 
 - 🌱 I’m currently learning **typescript, golang**
 
-- 👯 I’m looking to collaborate on [Digital Knowledge Gardens with Neural Network Intelligence](https://mental.infralab.cloud/)
-
-- 🤝 I’m looking for help with **Minecraft Server Plugins**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LywwKkA-aD](https://github.com/LywwKkA-aD)
-
-- 📫 How to reach me **Telegram (https://t.me/OEnVTsG2Rn)**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/matvej-verbickij/](https://www.linkedin.com/in/matvej-verbickij/)
-
 - ⚡ Fun fact **The first "computer bug" was a real moth found in a machine in 1947. Hence, "debugging" was literally pulling bugs out! 🐛💻**
 
 <h3 align="left">Connect with me:</h3>
