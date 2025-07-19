@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LywwKkA-aD</h1>
+<h1 align="center">Hi 👋, I'm ライトニング</h1>
 <h3 align="center">IT Wizard</h3>
 
 - 🔭 I’m currently working on **GRID TRADING BOT**
