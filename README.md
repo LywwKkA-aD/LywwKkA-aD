@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ライトニング</h1>
 <h3 align="center">IT Wizard</h3>
 
-- 🔭 I’m currently working on **GRID TRADING BOT**
+- 🔭 I’m currently working on **VEIL** (secure messanger)
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **Flutter**
 
 - ⚡ Fun fact **The first "computer bug" was a real moth found in a machine in 1947. Hence, "debugging" was literally pulling bugs out! 🐛💻**
 
