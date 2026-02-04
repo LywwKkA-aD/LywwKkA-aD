@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ライトニング</h1>
 <h3 align="center">IT Wizard</h3>
 
-- 🔭 I’m currently working on **VEIL** (secure messanger)
+- 🔭 I’m currently working on **K4s** (TUI for K3s)
 
 - 🌱 I’m currently learning **Kubernetes**
 
