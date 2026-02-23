@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm ライトニング</h1>
-<h3 align="center">IT Wizard</h3>
+<h1 align="center">Hi 👋, I'm h3lm3r0x</h1>
 
 - 🔭 I’m currently working on **K4s** (TUI for K3s)
 
